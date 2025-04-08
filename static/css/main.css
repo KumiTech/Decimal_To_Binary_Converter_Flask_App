@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: cursive;
+    font-style: italic;
+    margin: 0.5rem;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+nav{
+    font-size: 2rem;
+    border: 2px solid black;
+    background-color: beige;
+    line-height: 5rem;
+    max-width: 600px;
+    border-radius: 2rem;
+    margin: 0 auto 1.5rem;
+}
+nav h2 {
+
+    white-space: wrap;
+    font-size: 50px;
+}
+
+#decimal_number{
+    font-size: 2rem;
+    
+
+}
+
+.button button{
+    font-size: 2rem;
+    background-color: rgb(113, 229, 113);
+    padding: 0.5rem;
+}
+
+.results{
+    font-size: 2rem;
+}
+
+.results h2{
+    text-decoration: underline;
+}
+    
